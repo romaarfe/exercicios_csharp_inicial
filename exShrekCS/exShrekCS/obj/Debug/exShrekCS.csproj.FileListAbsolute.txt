@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\exShrekCS\exShrekCS\bin\Debug\exShrekCS.exe.config
+C:\Users\admin\Desktop\exShrekCS\exShrekCS\bin\Debug\exShrekCS.exe
+C:\Users\admin\Desktop\exShrekCS\exShrekCS\bin\Debug\exShrekCS.pdb
+C:\Users\admin\Desktop\exShrekCS\exShrekCS\obj\Debug\exShrekCS.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\exShrekCS\exShrekCS\obj\Debug\exShrekCS.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\exShrekCS\exShrekCS\obj\Debug\exShrekCS.Form1.resources
+C:\Users\admin\Desktop\exShrekCS\exShrekCS\obj\Debug\exShrekCS.Properties.Resources.resources
+C:\Users\admin\Desktop\exShrekCS\exShrekCS\obj\Debug\exShrekCS.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\exShrekCS\exShrekCS\obj\Debug\exShrekCS.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\exShrekCS\exShrekCS\obj\Debug\exShrekCS.exe
+C:\Users\admin\Desktop\exShrekCS\exShrekCS\obj\Debug\exShrekCS.pdb
